@@ -1,2 +1,1 @@
-# code
-hello!
+JS文件夹是PINK老师的资料
